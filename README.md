@@ -54,4 +54,4 @@ No library is imposed to write the API, choose the one you want.
 
 ## An issue, a question?
 
-Send us a mail at [ch_data_intelligence_team@ricardo.ch](mailto:gm-data@swissmarketplace.group)
+Send us a mail at [gm-data@swissmarketplace.group](mailto:gm-data@swissmarketplace.group)
