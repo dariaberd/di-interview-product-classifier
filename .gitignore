@@ -1,1 +1,8 @@
 .idea
+/training/credentials.json
+*.pkl
+__pycache__
+*.json
+training/.ipynb_checkpoints/
+!/training/models/.gitkeep
+.ipynb_checkpoints/
