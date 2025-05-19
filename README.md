@@ -55,3 +55,13 @@ No library is imposed to write the API, choose the one you want.
 ## An issue, a question?
 
 Send us a mail at [gm-data@swissmarketplace.group](mailto:gm-data@swissmarketplace.group)
+
+
+## Realisations
+
+The model training pipeline is documented in `training/training.ipynb`.
+
+On first execution, `main.py` will initiate model training (this may take approximately 10–15 minutes).
+After training is completed, the API will use the locally saved model for inference.
+
+This design keeps the repository clean and simplifies future enhancements.
